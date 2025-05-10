@@ -26,9 +26,6 @@ Clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/barbearia-landing-page.git
 
-Acesse a pasta do projeto:
 cd barbearia-landing-page
 
-
-Abra o arquivo index.html em seu navegador preferido:
 start index.html
